@@ -6,7 +6,8 @@ The current methods of stablizing video use cropping or black bars which exclude
 
 ## Example Unstable Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PtN5y9vopxs&ab_channel=Kamal)
+[!(https://user-images.githubusercontent.com/71079508/205404708-5ae05375-2e27-4e2f-88ff-e20caaed48b0.png)](https://www.youtube.com/watch?v=PtN5y9vopxs&ab_channel=Kamal)
+
 
 ## Our Stablized version
 
