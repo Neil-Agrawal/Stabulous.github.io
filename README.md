@@ -10,5 +10,4 @@ The current methods of stablizing video use cropping or black bars which exclude
 
 ## Our Stablized version
 
-https://user-images.githubusercontent.com/71079508/205216809-9738d942-6958-42c3-9121-3374bb01b515.mov
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtube.com/shorts/-lbUAbQWVq4)
