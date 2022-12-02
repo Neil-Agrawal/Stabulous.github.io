@@ -6,7 +6,7 @@ The current methods of stablizing video use cropping or black bars which exclude
 
 ## Example Unstable Video
 
-![Unstable video](https://www.dropbox.com/s/voskugi4n4i48ff/Stabilized.mov?dl=0)
+<iframe width="1487" height="691" src="https://www.dropbox.com/s/rcdf4u7zlwyejya/0.avi?dl=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Our Stablized version
