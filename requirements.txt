@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+albumentations==1.3.0
+numpy==1.21.2
+Pillow==9.3.0
+torch==1.12.1
+torchvision==0.13.1
+tqdm==4.63.1
+=======
+albumentations==1.3.0
+numpy==1.21.2
+Pillow==9.3.0
+torch==1.12.1
+torchvision==0.13.1
+tqdm==4.63.1
+>>>>>>> 6af0bc7eaac435940a3f5637766c3c53b7920c8b
